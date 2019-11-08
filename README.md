@@ -25,4 +25,16 @@
 * 05_in_array
 * 06_definition
 * 07_included_once
+<<<<<<< HEAD
 * 08_count_letters
+=======
+* 08_count_letters
+* 09_vowels
+* 10_unique
+* 11_fizzbuzz
+* 12_count_words
+* 13_fibonacci
+* 14_hackerman
+* 15_change_letters
+* 16_palindrome
+>>>>>>> 5f4dd7950c4401600a6c84e20a801885d610259b
